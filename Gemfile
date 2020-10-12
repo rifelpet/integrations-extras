@@ -7,5 +7,5 @@ gem 'datadog-sdk-testing', '~> 0.8.0'
 gem 'httparty'
 gem 'public_suffix', '~> 1.4.0', platform: %i[ruby_19 jruby]
 gem 'rainbow', '~>2.2.2'
-gem 'rake', '~> 12.2.0'
+gem 'rake', '~> 12.3.3'
 gem 'rubocop', '~> 0.51.0'
